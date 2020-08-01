@@ -33,7 +33,7 @@ HINTS = {
     },
     "#manybot": {
         "message": "The @BotList moderators aim to set a *high standard for bots on the* @BotList. "
-        "Bots built with bot builders like @Manybot or @Chatfuelbot certainly have "
+        "Bots built with bot builders like @Manybot, @Chatfuelbot or @MenuBuilderBot certainly have "
         "their place, but usually *lack the quality* we impose for inclusion to the "
         "list. We prefer when bot makers actually take their time and effort to "
         "program bots without using a sandbox kindergarten tool as the ones mentioned "
